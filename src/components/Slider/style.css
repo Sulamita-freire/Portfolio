@@ -1,0 +1,14 @@
+:root {
+  --swiper-theme-color: #FF9000 !important; 
+}
+
+.swiper{
+  margin-bottom: 30px;
+  margin-top: 50px
+}
+
+.swiper-slide{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

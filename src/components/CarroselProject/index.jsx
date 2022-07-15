@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import imagem1 from "../../public/imagem1.png";
 import imagem2 from "../../public/imagem2.png";
 import imagem3 from "../../public/imagem3.png";
-import imagem4 from "../../public/imagem4.png";
+import imagem4 from "../../public/imagem4.PNG";
 import imagem5 from "../../public/imagem5.png";
 
 import './style.css'

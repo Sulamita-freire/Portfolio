@@ -41,6 +41,16 @@ animation: floating 6s ease-in-out infinite;
 		transform: translateY(0px);
 	} 
 }
+@media (min-width: 600px) {
+    >section{
+        width: 590px;
+        >div {
+    img {
+        width: 380px;
+    }
+}
+    }   
+}
 
 `
 
